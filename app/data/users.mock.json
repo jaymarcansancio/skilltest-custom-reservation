@@ -1,0 +1,20 @@
+[
+    {
+        "phone": "+1 555 123 4567",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com"
+    },
+    {
+        "phone": "+44 7911 123456",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "jane.smith@example.co.uk"
+    },
+    {
+        "phone": "+63 974 415 3244",
+        "firstName": "Alex",
+        "lastName": "Johnson",
+        "email": "alex.j@example.com"
+    }
+]

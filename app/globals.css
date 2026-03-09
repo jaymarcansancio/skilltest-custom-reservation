@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-gold-400: #d6b872;
+  --color-gold-500: #c5a963;
+  --color-gold-600: #b09657;
+  --color-logo-blue: #5b669e;
+}
